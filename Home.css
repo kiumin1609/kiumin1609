@@ -1,0 +1,380 @@
+.container{
+	max-width: 1170px;
+}
+body{
+	margin: 0 auto;
+	font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+}
+a{
+	text-decoration: none;
+	font-weight: 100;
+	color: white;
+}
+.mg{
+	margin: 0px;
+}
+.ps{
+	position: relative;
+}
+.Header{
+	background-color: black;
+	color: white;
+	height: 70px;
+} 
+#logo img {
+	float: left;
+	width:  70px;
+}
+.Hotel a{
+	font-size: 20px;
+	margin: 22px;
+	float: left;
+}
+.Tours a {
+	font-size: 20px;
+	margin: 22px;
+	float: left;
+}
+.Experience a {
+	font-size: 20px;
+	margin: 22px;
+	float: left;
+}
+.Help a{
+	position: relative;
+	font-size: 20px;
+	margin: 22px;
+	float: left;
+}
+.Header a:hover{
+	text-decoration: none;
+	color: #bfbfbf;
+} 
+.Account a {
+	float: right;
+	margin: 0px;
+	margin-left: 2px;
+	font-size: 20px;
+	padding-right: 16px;
+}
+.Account button {
+	border: 0px;
+	margin: 18px;
+	margin-left: 0px;
+	float: right;
+	color: white;
+	background-color: black;
+	font-size: 20px;
+	font-weight:100;
+	font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+}
+.modal-content button {
+	background-color: white;
+}
+.AccountIcon a i{	
+	color: white;
+	float: right;
+	margin: 18px;
+	margin-right: 0px;
+	font-size: 35px;
+	font-weight:900;
+	position: relative;
+}
+.Account btn-close{
+	background-color: white;
+	color: black;
+}
+.modal-body{
+	color: black;
+	font-weight: 100;
+	font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+	margin-bottom: 0 rem;
+}
+#emaildn{
+	margin-bottom: 0px ;
+	margin-left: 22px;
+	}
+#password{
+	margin-left: 22px;
+}
+.modal-body input{
+	width:  420px;
+	height: 45px;
+	margin-left: 22px ;
+}
+.modal-body a{
+	font-size: 18px;
+	color: black;
+	font-weight: 370;
+	font-size: 15px;
+	margin-top: 5px;
+	}
+.submit input{
+	background-color:#659AC0;
+	border: 0px;
+	border-radius: 5px;
+	color: white;
+}
+.hoac {
+	margin-right: auto;
+	color: black;
+	font-weight:400 ;
+	font-size: 14px;
+}
+#staticBackdropLabel{
+	color: black;
+	font-weight: 300;
+	text-align: center;
+}
+.modal-footer .tablogin button{
+	font-size: 18px;
+	color: black;
+	width: 420px;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	}
+.modal-footer .tablogin2 button{
+	font-size: 18px;
+	color: black;
+	width: 420px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+.modal-footer .tablogin3 button{
+	font-size: 18px;
+	color: black;
+	width: 420px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+.tabdangki{
+	padding-left: 60px;
+}
+.modal-footer .tabdangki a{
+	margin-bottom: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+    padding-right: 0px;
+}
+.modal-footer .tabdangki button{
+	font-size: 18px;
+	color: black;
+	width: 420px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+
+
+}
+.Account a ul{
+	list-style: none;
+}
+.Cover img{
+	clear: both;
+	width: 100%;
+	height: 720px;
+	 position: absolute;
+ 	left: 0px;
+ 	top: 0px;
+ 	z-index: -1;
+}
+.goto {
+	margin-top: 50px;
+	margin-left: 70px;
+
+}
+.goto input{
+	width: 550px;
+	height: 50px;
+	font-size: 18px;
+	border-radius: 5px;
+	border: 0px;
+	padding-left: 38px;
+	font-weight: 200;
+}
+.icongoto i{
+	position: absolute;
+	font-size: 21px;
+	margin-left:7px;
+	margin-top: 30px;
+	color:#CCCCCC ;
+
+}
+
+
+.Cover {
+	height: 520px;
+	font-size: 40px;
+	color: white;
+}
+.Content .Place{
+	font-weight: 700;
+	font-size: 32px;
+	margin-top: 150px;
+}
+.Content img{
+	width: 85px;
+	height: 85px;
+	border-radius: 5px;
+}
+.Content a {
+	font-size: 18px;
+	text-decoration: none;
+	color: black;
+	font-weight: 100;
+}
+.Content2 .Place2{
+	font-weight: 700;
+	font-size: 32px;
+	margin-top: 50px;
+}
+.Content2 a{
+	font-size: 18px;
+	text-decoration: none;
+	color: black;
+	font-weight: 100;
+}
+.Content2 img{
+	width: 180px;
+	height: 240px;
+	border-radius: 5px;
+}
+.Content3 .Place3{
+	font-weight: 700;
+	font-size: 32px;
+	margin-top: 50px;
+}
+.Content3 a{
+	font-size: 18px;
+	text-decoration: none;
+	color: black;
+	font-weight: 100;
+}
+.Content3 img{
+	width: 386px;
+	height: 500px;
+	border-radius: 5px;
+}
+.Footer{
+	margin-top: 50px;
+	background-color: #f5f5fb;
+	padding-top: 50px;
+	padding-bottom: 40px;
+}
+.Footer a{
+	font-size: 14px;
+	text-decoration: none;
+	color: black;
+	font-weight: 200;
+	margin-top: 50px;
+
+}
+.Footer a ul{
+	list-style: none;
+}
+.Footer #hotline{
+	font-size: 14px;
+	color:  #b30000;
+	font-weight: 500;
+	margin-left: 33px;
+}
+.Footer #info{
+	font-size: 13px;
+	color: black;
+	font-weight: 200;
+	margin-left: 33px;
+}
+.Footer #thanhtoan{
+	font-size: 13px;
+	color: black;
+	font-weight: 200;
+}
+.Footer #socialmedia{
+	font-size: 14px;
+	color: black;
+	font-weight: 200;
+}
+
+.Footer #socialmedia a i{
+	font-size: 22px;
+	letter-spacing: 10px;
+}
+.Footer2 #address{
+	margin-top: 35px;
+	font-weight: 200;
+	font-size: 13px;
+	margin-bottom: 0px;
+}
+.Footer2 #copyright{
+	border-top: 1px solid #DDDDDD !important;
+	margin-bottom: 20px;
+}
+.Footer2 #copyright i{
+	font-size: 14px;
+	color: black;
+	font-weight:100 ;
+}
+.imge img{
+	width: 100%;
+	height: 600px;
+	position: absolute;
+	left: 0px;
+ 	top: 0px;
+ 	z-index: -1;
+	filter: brightness(0.5);
+}
+.imge h1{
+	text-align: center;
+	color: white;
+	margin-top: 220px;
+	margin-bottom: 0px;
+}
+.contentpq{
+	background-color: #fff;
+	margin-top: 300px;
+}
+.im1 img{
+	width: 600px;
+	margin-left: 70px;
+}
+.time img{
+	width: 600px;
+	margin-left: 70px;
+}
+ .main2 h4{
+ 	border-bottom: 4px solid;
+ 	border-bottom-color: #ffbf35;
+ }
+ .link2{
+ 	border-bottom: 1.8px dashed;
+ 	border-bottom-color: #ededee;
+ 	padding-bottom: 15px;
+ 	padding-top: 10px;
+ }
+ .link2 a{
+ 	color: black;
+ }
+ .link2 a:hover{
+ 	color:#ffbf35 ;
+ }
+ .link22 a{
+ 	background-color: #ff7358;
+ 	color: white;
+ 	font-size: 13px;
+ 	font-weight: 500;
+ 	padding: 1.5px;
+
+ }
+ .author a{
+ 	background-color: white;
+ 	color: black;
+ 	font-size: 13px;
+ 	font-weight: 500;
+ }
+ .author a:hover{
+ 	color: black;
+ }
+ .time time{
+ 	color:#bdbdbe ;
+ 	font-size: 13px;
+ }
+ 

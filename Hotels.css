@@ -1,0 +1,227 @@
+	max-width: 1170px;
+}
+body{
+	margin: 0 auto;
+	font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+}
+.Header a{
+	color: white;
+	text-decoration: none;
+	font-weight: 100;
+}
+.Header a:hover{
+	text-decoration: none;
+	color: #bfbfbf;
+}
+.ps{
+	position: relative;
+}
+.Header{
+	background-color: black;
+	color: white;
+	height: 70px;
+} 
+#logo img {
+	float: left;
+	width:  70px;
+}
+.Hotel a{
+	font-size: 20px;
+	margin: 22px;
+	float: left;
+}
+.Tours a {
+	font-size: 20px;
+	margin: 22px;
+	float: left;
+}
+.Experience a {
+	font-size: 20px;
+	margin: 22px;
+	float: left;
+}
+.Help a{
+	position: relative;
+	font-size: 20px;
+	margin: 22px;
+	float: left;
+}
+.Account a {
+	float: right;
+	margin: 22px;
+	margin-left: 2px;
+	font-size: 20px;
+	padding-right: 16px;
+}
+.Account button {
+	border: 0px;
+	margin: 18px;
+	margin-left: 0px;
+	float: right;
+	color: white;
+	background-color: black;
+	font-size: 20px;
+	font-weight:100;
+	font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+}
+.modal-content button {
+	background-color: white;
+}
+.AccountIcon a i{	
+	color: white;
+	float: right;
+	margin: 18px;
+	margin-right: 0px;
+	font-size: 35px;
+	font-weight:900;
+	position: relative;
+}
+.Account btn-close{
+	background-color: white;
+	color: black;
+}
+.modal-body{
+	color: black;
+	font-weight: 100;
+	font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+	margin-bottom: 0 rem;
+}
+#emaildn{
+	margin-bottom: 0px ;
+	margin-left: 22px;
+	}
+#password{
+	margin-left: 22px;
+}
+.modal-body input{
+	width:  420px;
+	height: 45px;
+	margin-left: 22px ;
+}
+.modal-body a{
+	font-size: 18px;
+	color: black;
+	font-weight: 370;
+	font-size: 15px;
+	margin-top: 5px;
+	}
+.submit input{
+	background-color:#659AC0;
+	border: 0px;
+	border-radius: 5px;
+	color: white;
+}
+.hoac {
+	margin-right: auto;
+	color: black;
+	font-weight:400 ;
+	font-size: 14px;
+}
+#staticBackdropLabel{
+	color: black;
+	font-weight: 300;
+	text-align: center;
+}
+.modal-footer .tablogin button{
+	font-size: 18px;
+	color: black;
+	width: 420px;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	}
+.modal-footer .tablogin2 button{
+	font-size: 18px;
+	color: black;
+	width: 420px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+.modal-footer .tablogin3 button{
+	font-size: 18px;
+	color: black;
+	width: 420px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+.tabdangki a{
+	margin-bottom: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+    padding-right: 0px;
+}
+.modal-footer .tabdangki button{
+	font-size: 18px;
+	color: black;
+	width: 420px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding-left: 40px;
+}
+.Account a ul{
+	list-style: none;
+}.imgcover img {
+	width: 100%;
+	height: 820px;
+	 position: absolute;
+ 	left: 0px;
+ 	top: 0px;
+ 	z-index: -1;
+ 	filter: brightness(0.5);
+}
+.searchhotel h1{
+	text-align: center;
+	color: white;
+	margin-top: 130px;
+	margin-bottom: 0px;
+}
+.searchhotel h2 {
+	text-align: center;
+	color: white;
+	margin-top: -25px;
+	font-size: 20px;
+	font-weight: 100;
+}
+.ta{
+	text-align: center;
+}
+.mt{
+	margin-top: 80px;
+}
+.out{
+	margin-left: 652px;
+	font-weight: 350;
+	font-size:18px ;
+	margin-bottom: 15px;
+}
+.formdk{
+	width: 30%;
+    height: 45px;
+    text-align: left;
+    margin-left: 35%;
+    padding: 5px;
+    margin-bottom: 5px;
+}
+.dangki a:hover{
+	text-decoration: none;
+}
+.dangki a{
+	text-decoration: none;
+}
+.clearfix{
+	margin-left: 38%;
+  background-color: #659AC0;
+  color: white;
+  padding: 14px 20px;
+  border: none;
+  cursor: pointer;
+  width: 25%;
+  opacity: 0.9;
+  border-radius: 2px;
+}
+.signupbtn{
+	margin-left: 40%;
+	background-color:#659AC0;
+	border: 0px;
+	border-radius: 5px;
+	color: white;
+}
